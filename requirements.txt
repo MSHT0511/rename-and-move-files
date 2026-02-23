@@ -1,4 +1,4 @@
-# 開発・テスト用依存関係
-# 実行時は外部ライブラリ不要（Python標準ライブラリのみ使用）
+# Development and testing dependencies
+# Runtime requires only Python standard library
 
 pytest>=7.0.0
